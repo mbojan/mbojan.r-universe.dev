@@ -4,6 +4,14 @@
 		"url": "https://github.com/recon-icm/linkprediction"
 	},
 	{
+		"package": "adr",
+		"url": "https://github.com/mbojan/adr"
+	},
+	{
+		"package": "isnar",
+		"url": "https://github.com/mbojan/isnar"
+	},
+	{
 		"package": "alluvial",
 		"url": "https://github.com/mbojan/alluvial"
 	},
