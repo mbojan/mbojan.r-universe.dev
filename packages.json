@@ -1,6 +1,26 @@
 [
 	{
-		"package": "netseg",
+		"package": "linkprediction",
+		"url": "https://github.com/recon-icm/linkprediction"
+	},
+	{
+		"package": "alluvial",
+		"url": "https://github.com/mbojan/alluvial"
+	},
+	{
+		"package": "intergraph",
+		"url": "https://github.com/mbojan/intergraph"
+	},
+	{
+		"package": "cranet",
+		"url": "https://github.com/mbojan/cranet"
+	},
+	{
+		"package": "rgraph6",
 		"url": "https://github.com/mbojan/rgraph6"
+	},
+	{
+		"package": "netseg",
+		"url": "https://github.com/mbojan/netseg"
 	}
 ]
