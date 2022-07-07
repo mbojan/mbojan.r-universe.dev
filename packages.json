@@ -28,6 +28,10 @@
 		"url": "https://github.com/mbojan/rgraph6"
 	},
 	{
+		"package": "NSUM",
+		"url": "https://github.com/mbojan/NSUM"
+	},
+	{
 		"package": "netseg",
 		"url": "https://github.com/mbojan/netseg"
 	}
