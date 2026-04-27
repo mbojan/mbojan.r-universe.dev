@@ -32,6 +32,10 @@
 		"url": "https://github.com/mbojan/NSUM"
 	},
 	{
+		"package": "lablah",
+		"url": "https://github.com/mbojan/lablah"
+	},
+	{
 		"package": "netseg",
 		"url": "https://github.com/mbojan/netseg"
 	}
